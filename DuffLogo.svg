@@ -90,9 +90,10 @@
      style="display:inline">
     <path
        style="fill:#c81318;fill-opacity:1;stroke:none"
-       d="m -20.421941,-20.508475 0,490.338985 488.270041,-2.06894 0,-486.201104 z"
+       d="m -20.000029,-20 5.9e-5,488 L 468,468 468,-20 z"
        id="path4112"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
   </g>
   <g
      inkscape:groupmode="layer"
