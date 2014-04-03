@@ -747,11 +747,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70000002"
-     inkscape:cx="409.82971"
-     inkscape:cy="349.0077"
+     inkscape:zoom="0.49497476"
+     inkscape:cx="635.50292"
+     inkscape:cy="366.81841"
      inkscape:document-units="px"
-     inkscape:current-layer="layer26"
+     inkscape:current-layer="svg2"
      showgrid="false"
      borderlayer="true"
      inkscape:showpageshadow="false"
@@ -770,7 +770,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -785,7 +785,8 @@
        inkscape:label="futuramaBackground"
        id="g4016"
        inkscape:groupmode="layer"
-       sodipodi:insensitive="true">
+       sodipodi:insensitive="true"
+       style="display:inline">
       <path
          sodipodi:nodetypes="ccccc"
          transform="translate(0,308.27218)"
@@ -798,7 +799,8 @@
        inkscape:groupmode="layer"
        id="layer28"
        inkscape:label="futuramaLightLazers-behinde"
-       sodipodi:insensitive="true">
+       sodipodi:insensitive="true"
+       style="display:inline">
       <path
          style="fill:#006680;stroke:none;filter:url(#filter4327)"
          d="M 484.87322,1026.402 C 572.52701,878.83934 744,632.82121 744,632.82121 l 0,150.35242 c 0,0 -172.80551,162.51733 -259.12678,243.22837 z"
@@ -876,7 +878,8 @@
        inkscape:label="futuramaLightLazers"
        id="g4041"
        inkscape:groupmode="layer"
-       sodipodi:insensitive="true">
+       sodipodi:insensitive="true"
+       style="display:inline">
       <path
          inkscape:connector-curvature="0"
          id="path4043"
@@ -954,7 +957,7 @@
        inkscape:groupmode="layer"
        id="layer2"
        inkscape:label="THEbakground"
-       style="display:none"
+       style="display:inline"
        sodipodi:insensitive="true">
       <path
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1031,7 +1034,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Josh"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        inkscape:groupmode="layer"
        id="layer14"
@@ -1483,14 +1487,13 @@
          inkscape:groupmode="layer"
          id="layer23"
          inkscape:label="highlights"
-         style="opacity:0.75935831"
-         sodipodi:insensitive="true">
+         style="opacity:0.75935831">
         <path
            sodipodi:nodetypes="ccc"
            inkscape:connector-curvature="0"
            id="path3518"
            d="m 399.27511,306.62898 c -2.77084,-13.05943 -18.14911,-3.30932 -18.61603,-0.45432 5.37158,25.1666 18.48588,5.7578 18.61603,0.45432 z"
-           style="fill:url(#radialGradient3530);fill-opacity:1;stroke:none" />
+           style="opacity:0.50934586;fill:url(#radialGradient3530);fill-opacity:1;stroke:none" />
       </g>
     </g>
   </g>
